@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whitechapel - My Favorite Band</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        dl dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        dl dd {
+            margin-left: 20px;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Favorite Band: Whitechapel</h1>
+
+    <h2>Members of the Group</h2>
+    <ul>
+        <li>Phil Bozeman</li>
+        <li>Brandon Zackey</li>
+        <li>Ben Savage</li>
+        <li>Alex Wade</li>
+        <li>Gabe Crisp</li>
+        <li>Zach Householder</li>
+    </ul>
+
+    <h2>Official Website</h2>
+    <p>Visit their website: <a href="https://whitechapelband.com/" target="_blank">Whitechapel Official Site</a></p>
+
+    <h2>Favorite Albums</h2>
+    <dl>
+        <dt>Hymns in Dissonance</dt>
+        <dd>A heavy album that goes back to their earlier roots, but with a much darker undertone. It's brutal, fast, and heavy. Every song is a banger and you'll hear the lowest vocals a human can do.</dd>
+
+        <dt>This is Exile</dt>
+        <dd>An amazing sophomore album that was a staple of the MySpace deathcore scene at the time. This album showcases their technical skills, grooves, and guttural vocals.</dd>
+
+        <dt>Somatic Defilement</dt>
+        <dd>Their debut album which most longtime fans love. Its raw production adds to the nostalgia of the 2000's with its dark lyrics that tell a gruesome horror story. It's complex and all over the place.</dd>
+    </dl>
+</body>
+</html>
