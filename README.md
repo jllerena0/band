@@ -1,4 +1,4 @@
-# My Favorite Band
+# band.html
 
 <!DOCTYPE html>
 <html lang="en">
