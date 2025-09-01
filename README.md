@@ -1,6 +1,6 @@
-# band.html
+# My Favorite Band
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
     <title>My Favorite Musical Group</title>
 </head>
 <body>
-    <h1>My favorite band is Whitechapel</h1>
+    <h2>My favorite band is Whitechapel</h2>
 
     <h2>Members of the Group</h2>
     <ul>
